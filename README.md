@@ -8,3 +8,5 @@ Newly created files are untracked. If we `stage` them, they get tracked and stag
 ### Scenario 2
 
 Local master is ahead of remote master by 2 commits. What happens when we do a `git pull`?
+![Alt text](scenario2.png) <br/>
+It shows "Already up to date". No new commits added.
