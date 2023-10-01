@@ -1,3 +1,9 @@
 This contains hello world program.
 
-Hello govardhan
+Hello govardhan!
+
+printf("Hello world!");
+
+cout << "Hello world!" << endl;
+
+System.out.println("Hello world!");
